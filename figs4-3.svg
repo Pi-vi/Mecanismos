@@ -12,7 +12,7 @@
    viewBox="0 0 84.273048 70.264748"
    version="1.1"
    id="svg4223"
-   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="figs4-3.svg">
   <defs
      id="defs4217">
@@ -189,21 +189,6 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2819" />
     </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path2822" />
-    </marker>
     <inkscape:path-effect
        effect="simplify"
        id="path-effect4796"
@@ -261,17 +246,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="221.5702"
-     inkscape:cy="125.89772"
+     inkscape:zoom="1.979899"
+     inkscape:cx="192.92978"
+     inkscape:cy="113.10349"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4220">
@@ -285,6 +270,18 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.865"
+       id="rect2864"
+       width="84.590805"
+       height="70.559151"
+       x="-0.13363476"
+       y="0" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
