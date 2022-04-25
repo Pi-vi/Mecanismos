@@ -22,20 +22,25 @@ CEFET/RJ Campus Angra dos Reis - Sala 6E
 * MABIE, H. Mecanismos e Dinâmica das Máquinas. Rio de Janeiro: Livro Técnico S.A.
 
 ## Links Recomendados: 
-* [Python/Anaconda](https://www.anaconda.com/)
+* [Google Colab](https://colab.research.google.com)
+* [507 Mechanical Movements](http://507movements.com/)
 * [How Stuff Works](https://www.howstuffworks.com/)
 * [Canal Youtube](https://www.youtube.com/user/thang010146)
 * [Canal Youtube](https://www.youtube.com/user/mekanizmalar)
 
 ## Forma de Avaliação:
-* P1 -> Trabalho
-* P2 -> Trabalho
-* P3 -> Prova
+1. Seminário e Prova 1
+2. Trabalho e Prova 2
+3. Prova Final (em caso de 3.0 $\leq$ Média $<$ 7.0
 
 ## Datas Importantes
 * Período de Trancamento:
-> 21/07 até 01/11
+ > até 29/04
 * Avaliações:
->P1: 10/09  
->P2: 15/10  
->P3: 05/11 
+ >P1: 07/06 <br>
+ >P2: 02/08 <br>
+ >P3: 23/08
+
+-----
+
+[Avançar para o próximo capítulo](Mecs1.ipynb)
